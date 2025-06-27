@@ -55,7 +55,3 @@ The following charts were created in Excel:
 - **Bar Chart**: Top 5 Products by Quantity Sold
 - **Pie Chart**: Revenue by Product Category
 - **Bar Chart**: Top 5 Frequent Buyers
-
----
-
-
